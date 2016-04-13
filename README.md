@@ -1,2 +1,4 @@
 # lelo-code
-for a test
+
+Hello, this is my first step in github.
+
